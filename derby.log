@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 11 03:15:03 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0170-c668-8301-00000ec884a0 
+on database directory /Users/ram/Desktop/anku/BigJavaDB with class loader sun.misc.Launcher$AppClassLoader@6e0be858 
+Loaded from file:/Users/ram/opt/Apache/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=/Users/ram/Desktop/anku
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
